@@ -1,2 +1,2 @@
 # Socket-example
-Socket working example in python
+Socket working example in Python QT
